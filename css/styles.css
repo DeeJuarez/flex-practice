@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    font-size: 25px;
+    color: black;
+    background-color: blanchedalmond;
+}
+
+h2 {
+    font-size: 22px;
+    background-color: goldenrod;
+}
+
+
+
